@@ -1,4 +1,4 @@
-# Inverted pull reguest in Github
+# Inverted pull requests in Github.
 
 __1.__ Open the forked git repo __me/foobar__
 - Click on __"compare"__ **>**
