@@ -11,3 +11,5 @@ __1.__ Open the forked git repo __me/foobar__
 **3.** Now we will see all the commits made to **someone/foobar** after the day when it was forked.
 - Click on *"Click to create a pull request for this comparison"* **>**
 ![Third image](/Assets/pc_3a.png?raw=true "Page Screenshot")
+
+**4.** Scroll down to the bottom on the next page and approve the new pull request.
