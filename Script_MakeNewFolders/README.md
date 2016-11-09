@@ -1,6 +1,6 @@
 ## Script: Create Folders in a SubFolders
 
-### Usage :star:
+### Usage :mag:
 When you have many folders and workflow to make sub folders on a regular basis.<br />
 1. Place file in the Root Directory.<br />
 2. Just run it. ( you will get notifications for each new folder )<br />
